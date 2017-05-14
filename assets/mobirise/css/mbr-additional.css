@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 
 
 
@@ -416,4 +417,56 @@ h6,
 .mbr-small-footer a,
 .mbr-gallery-filter li:hover {
   color: #89b6e7;
+}
+
+
+
+
+
+#header2-7 .mbr-section-title {
+  font-family: 'Roboto', sans-serif;
+  font-size: 36px;
+}
+#header3-9 .mbr-section-title,
+#header3-9 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-9 H3 {
+  font-size: 32px;
+}
+#content2-a SPAN {
+  text-align: left;
+}
+#content2-a H4 {
+  text-align: center;
+  font-family: 'Lora', serif;
+}
+#content2-a UL {
+  text-align: center;
+}
+#content2-a H3 {
+  text-align: right;
+  font-family: 'Lora', serif;
+}
+#msg-box8-e .mbr-section-title,
+#msg-box8-e p {
+  color: #fff;
+}
+#msg-box8-e .mbr-section-title {
+  color: #000000;
+  font-size: 32px;
+}
+#msg-box8-e .lead P {
+  color: #232323;
+}
+#msg-box8-e .lead H4 {
+  font-family: 'Lora', serif;
+}
+#header3-g .mbr-section-title,
+#header3-g .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-g H3 {
+  font-family: 'Lora', serif;
+  font-size: 32px;
 }
