@@ -62,7 +62,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "showArrow": true
+            "showArrow": false
           },
           "media": {
             "image": {
@@ -84,7 +84,13 @@
           },
           "title": "Computer Science Classes",
           "text": "Courses for Class XI-XII",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://anybodycanc.com\" data-toolbar=\"-mbrBtnMove\">Details</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"class_XI.html\" data-toolbar=\"-mbrBtnMove\">Details</a> ",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          }
         }
       ]
     },
@@ -117,7 +123,7 @@
             "inverse": false,
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "showArrow": true
           },
           "media": {

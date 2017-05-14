@@ -1,7 +1,8 @@
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
-@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+
 
 
 
@@ -417,6 +418,9 @@ h6,
 .mbr-small-footer a,
 .mbr-gallery-filter li:hover {
   color: #89b6e7;
+}
+#header2-6 .mbr-section-title {
+  font-family: 'Lora', serif;
 }
 
 
