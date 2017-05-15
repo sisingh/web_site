@@ -1,7 +1,7 @@
 {
   "settings": {
     "currentPage": "class_XII.html",
-    "name": "Siddhartha Computer Classes",
+    "name": "Siddhartha",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -24,9 +24,8 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 34,
     "versionPublish": "3.12.1",
-    "favicon": "@PROJECT_PATH@/assets/images/kids-comp-class.jpg",
-    "noImageResize": "",
-    "google-analytics": ""
+    "favicon": "",
+    "noImageResize": "true"
   },
   "pages": {
     "index.html": {
@@ -60,10 +59,10 @@
           "_params": {
             "imageSize": 50,
             "parallax": true,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -118,17 +117,17 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
               "font-size": "36px",
               "color": "#000000",
-              "text-align": "right"
+              "text-align": "left"
             }
           },
           "_anchor": "header2-7",
           "_params": {
             "imageSize": 50,
             "parallax": true,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -661,17 +660,17 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
               "font-size": "36px",
               "color": "#000000",
-              "text-align": "right"
+              "text-align": "left"
             }
           },
           "_anchor": "header2-i",
           "_params": {
             "imageSize": 50,
             "parallax": true,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },

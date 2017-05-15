@@ -421,6 +421,12 @@ h6,
 }
 #header2-6 .mbr-section-title {
   font-family: 'Lora', serif;
+  text-align: right;
+  font-size: 36px;
+  color: #000000;
+}
+#header2-6 .btn {
+  font-size: 14px;
 }
 
 
@@ -430,6 +436,8 @@ h6,
 #header2-7 .mbr-section-title {
   font-family: 'Roboto', sans-serif;
   font-size: 36px;
+  color: #000000;
+  text-align: right;
 }
 #header3-9 .mbr-section-title,
 #header3-9 .mbr-section-subtitle {
@@ -471,6 +479,60 @@ h6,
   text-align: center;
 }
 #header3-g H3 {
+  font-family: 'Lora', serif;
+  font-size: 32px;
+}
+
+
+
+
+
+#header2-i .mbr-section-title {
+  font-family: 'Roboto', sans-serif;
+  font-size: 36px;
+  color: #000000;
+  text-align: right;
+}
+#header3-j .mbr-section-title,
+#header3-j .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-j H3 {
+  font-size: 32px;
+}
+#content2-k SPAN {
+  text-align: left;
+}
+#content2-k H4 {
+  text-align: center;
+  font-family: 'Lora', serif;
+}
+#content2-k UL {
+  text-align: center;
+}
+#content2-k H3 {
+  text-align: right;
+  font-family: 'Lora', serif;
+}
+#msg-box8-m .mbr-section-title,
+#msg-box8-m p {
+  color: #fff;
+}
+#msg-box8-m .mbr-section-title {
+  color: #000000;
+  font-size: 32px;
+}
+#msg-box8-m .lead P {
+  color: #232323;
+}
+#msg-box8-m .lead H4 {
+  font-family: 'Lora', serif;
+}
+#header3-o .mbr-section-title,
+#header3-o .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-o H3 {
   font-family: 'Lora', serif;
   font-size: 32px;
 }
